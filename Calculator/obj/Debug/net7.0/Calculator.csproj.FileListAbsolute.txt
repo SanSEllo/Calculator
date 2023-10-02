@@ -1,0 +1,15 @@
+/Users/Ruslan/Documents/Calculator/Calculator/bin/Debug/net7.0/Calculator
+/Users/Ruslan/Documents/Calculator/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/Users/Ruslan/Documents/Calculator/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/Users/Ruslan/Documents/Calculator/Calculator/bin/Debug/net7.0/Calculator.dll
+/Users/Ruslan/Documents/Calculator/Calculator/bin/Debug/net7.0/Calculator.pdb
+/Users/Ruslan/Documents/Calculator/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/Users/Ruslan/Documents/Calculator/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ruslan/Documents/Calculator/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/Users/Ruslan/Documents/Calculator/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/Users/Ruslan/Documents/Calculator/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/Ruslan/Documents/Calculator/Calculator/obj/Debug/net7.0/Calculator.dll
+/Users/Ruslan/Documents/Calculator/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/Users/Ruslan/Documents/Calculator/Calculator/obj/Debug/net7.0/Calculator.pdb
+/Users/Ruslan/Documents/Calculator/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/Users/Ruslan/Documents/Calculator/Calculator/obj/Debug/net7.0/ref/Calculator.dll
